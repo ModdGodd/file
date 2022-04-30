@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Whitney Bold';
+    src: url('https://raw.githubusercontent.com/ModdGodd/file/main/fonts/Whitney/Whitney%20Bold.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/ModdGodd/file/main/fonts/Whitney/Whitney%20Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+	font-family: 'Whitney Book Italic';
+    src: url('https://raw.githubusercontent.com/ModdGodd/file/main/fonts/Whitney/Whitney%20Book%20Italic.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/ModdGodd/file/main/fonts/Whitney/Whitney%20Book%20Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+	font-family: 'Whitney Book';
+    src: url('https://raw.githubusercontent.com/ModdGodd/file/main/fonts/Whitney/Whitney%20Book.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/ModdGodd/file/main/fonts/Whitney/Whitney%20Book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+	font-family: 'Whitney Light Italic';
+    src: url('https://raw.githubusercontent.com/ModdGodd/file/main/fonts/Whitney/Whitney%20Light%20Italic.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/ModdGodd/file/main/fonts/Whitney/Whitney%20Light%20Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+	font-family: 'Whitney Light';
+    src: url('https://raw.githubusercontent.com/ModdGodd/file/main/fonts/Whitney/Whitney%20Light.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/ModdGodd/file/main/fonts/Whitney/Whitney%20Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+	font-family: 'Whitney Medium Italic';
+    src: url('https://raw.githubusercontent.com/ModdGodd/file/main/fonts/Whitney/Whitney%20Medium%20Italic.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/ModdGodd/file/main/fonts/Whitney/Whitney%20Medium%20Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+	font-family: 'Whitney Medium';
+    src: url('https://raw.githubusercontent.com/ModdGodd/file/main/fonts/Whitney/Whitney%20Medium.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/ModdGodd/file/main/fonts/Whitney/Whitney%20Medium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+	font-family: 'Whitney Semibold';
+    src: url('https://raw.githubusercontent.com/ModdGodd/file/main/fonts/Whitney/Whitney%20Semibold.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/ModdGodd/file/main/fonts/Whitney/Whitney%20Semibold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+	font-family: 'Whitney Semibold Italic';
+    src: url('https://raw.githubusercontent.com/ModdGodd/file/main/fonts/Whitney/Whitney%20Semibold%20Italic.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/ModdGodd/file/main/fonts/Whitney/Whitney%20Semibold%20Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
