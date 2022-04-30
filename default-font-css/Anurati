@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Anurati';
+    src: url('https://raw.githubusercontent.com/ModdGodd/file/main/fonts/Anurati/Anurati.otf') format('otf');
+src: url('https://raw.githubusercontent.com/ModdGodd/file/main/fonts/Anurati/Anurati.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
