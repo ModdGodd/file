@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Corbert';
+    src: url('https://raw.githubusercontent.com/ModdGodd/file/main/fonts/Corbert/Corbert.woff2') format('woff2');
+src: url('https://raw.githubusercontent.com/ModdGodd/file/main/fonts/Corbert/Corbert.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+    font-family: 'Corbert B';
+    src: url('https://raw.githubusercontent.com/ModdGodd/file/main/fonts/Corbert/CorbertBold.woff2') format('woff2');
+src: url('https://raw.githubusercontent.com/ModdGodd/file/main/fonts/Corbert/CorbertBold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+    font-family: 'Anurati';
+    src: url('https://raw.githubusercontent.com/ModdGodd/file/main/fonts/Anurati/Anurati.otf') format('otf');
+src: url('https://raw.githubusercontent.com/ModdGodd/file/main/fonts/Anurati/Anurati.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
