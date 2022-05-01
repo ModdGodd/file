@@ -1,9 +1,133 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-  </head>
-  <body>
-    stuff here
-  </body>
+
+<head>
+  <style>
+    td,
+    th {
+      vertical-align: middle !important;
+    }
+    body#body1 {
+  font-family: "Whitney Medium";
+  padding-left: 6vh;
+  padding-right: 6vh;
+  padding-top: 2vh;
+}
+.coolParagraph {
+  font-size: 14pt;
+  font-family: "Whitney Book";
+}
+.coolCode {
+  background-color: #656565;
+  border-radius: 4px;
+  padding: 3px;
+  color: red;
+}
+.fontName {
+  text-align: left;
+}
+.table {
+  font-family: "Whitney Book";
+  margin: 0px!important;
+  padding: 0px!important;
+  background-color: #eaeaea;
+  border-collapse: separate;
+  border: none!important;
+  max-width: fit-content;
+  border-spacing: 0px;
+}
+.noBorderTop {
+  border-top: none;
+}
+.borderBottom {
+  border-top: none;
+  border-bottom: 1px solid #111 !important;
+}
+th.header {
+  background-color: grey !important;
+  color: white;
+  border:none !important;
+}
+.WhitneyBold {
+  font-family: "Whitney Semibold Italic";
+}
+div.tableHolder {
+  border-radius: 1rem;
+  overflow: hidden;
+  display: black;
+  border: solid 3px #818181;
+  background-color:#818181;
+  margin-bottom:1rem;
+}
+::selection {
+  background: #cd1a08bd;
+}
+  </style>
+  <link rel="stylesheet" href="https://moddgodd.github.io/file/default-font-css/Whitney.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css">
+</head>
+
+<body id="body1" contenteditable="false">
+  <h1>ModdGodd's Fonts</h1>
+  <hr>
+  <p class="coolParagraph">Welcome to my Fonts Directory. I spent lots of time here, please look around. Click <a href="https://moddgodd.github.io/homepage">here</a> to see my homepage</p>
+  <h3 class="fontName">Anurati</h3>
+  <p class="coolParagraph" style="font-size:12pt;">Just comes in the one variant</p>
+  <div class="tableHolder">
+    <table class="table">
+      <thead style="border-collapse:none!important">
+        <tr>
+          <th scope="col" class="noBorderTop borderBottom header">#</th>
+          <th scope="col" class="noBorderTop borderBottom header">Type</th>
+          <th scope="col" class="noBorderTop borderBottom header">
+            <code class="coolCode">font-family</code>
+            Value
+          </th>
+          <th scope="col" class="noBorderTop borderBottom header">Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th scope="row" class="noBorderTop">1</th>
+          <td class="noBorderTop">Standard, or Medium/Reg</td>
+          <td class="noBorderTop">'Anurati'</td>
+          <td class="noBorderTop">It looks pretty modern. I reccomend use it very less; Usually, only CAPS looks good</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <hr>
+  <h3 class="fontName">Corbert</h3>
+  <p class="coolParagraph" style="font-size:12pt;">Comes in two varieties; one downside is that I got the fonts from different sources, so it looks different when compared to each other (unlike the <span class="WhitneyBold">next</span> one).</p>
+  <div class="tableHolder">
+    <table class="table">
+      <thead style="">
+        <tr>
+          <th scope="col" class="noBorderTop borderBottom header">#</th>
+          <th scope="col" class="noBorderTop borderBottom header">Type</th>
+          <th scope="col" class="noBorderTop borderBottom header">
+            <code class="coolCode">font-family</code>
+            Value
+          </th>
+          <th scope="col" class="noBorderTop borderBottom header">Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th scope="row" class="noBorderTop">1</th>
+          <td class="noBorderTop">Regular/Medium</td>
+          <td class="noBorderTop">'Corbert'</td>
+          <td class="noBorderTop"> Perfect UI font, its too modern to be a body typeface, but it is just behind Monteserrat, which is probably by now too overused.</td>
+        </tr>
+        <tr>
+          <th scope="row" class="noBorderTop">2</th>
+          <td class="noBorderTop">Bolded</td>
+          <td class="noBorderTop">'Corbert B'</td>
+          <td class="noBorderTop"> Its a great font if its your style, I reccomend to set everything to it; the only catch was that font-weight and bold tags worked bad with the normal Corbert, so I had to dig out a bold version manually</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</body>
+
 </html>
