@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Corbert';
+    src: url('https://raw.githubusercontent.com/ModdGodd/file/main/fonts/Corbert/Corbert.woff2') format('woff2');
+src: url('https://raw.githubusercontent.com/ModdGodd/file/main/fonts/Corbert/Corbert.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+    font-family: 'Corbert B';
+    src: url('https://raw.githubusercontent.com/ModdGodd/file/main/fonts/Corbert/CorbertBold.woff2') format('woff2');
+src: url('https://raw.githubusercontent.com/ModdGodd/file/main/fonts/Corbert/CorbertBold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+#modd-dialogue-modal>div.modal-dialog.modal-lg>div.modal-content>div.modal-body{padding:0!important}div#modd-dialogue-message{color:#fff}p#modd-dialogue-message{margin-top:-12px;padding:10px}#modd-dialogue-modal>div.modal-dialog.modal-lg>div.modal-content{background-color:#36393f;border:3px solid #5865f286}.discordheader{color:#5865f2;font-weight:bolder;font-size:1.5rem;font-family:Corbert}div#modd-dialogue-options>:nth-of-type(1){color:#2b2b2b;background-color:#cfcfcf}div#modd-dialogue-options>:nth-of-type(2){color:#fff;background-color:#7173e1}div#modd-dialogue-options>:nth-of-type(1):hover{background-color:#acacac}div#modd-dialogue-options>:nth-of-type(2):hover{background-color:#5f60bc}div#modd-dialogue-options{display:flex;float:right;width:17rem!important;flex-direction:row;align-content:center;justify-content:flex-start;align-items:stretch;padding:.25em}div#modd-dialogue-options>button{margin:5px!important;display:flex;justify-content:center;align-items:center;align-content:space-around;font-size:10pt;border-width:0!important;height:2rem}div#modd-dialogue-modal>div{max-width:500px!important}
