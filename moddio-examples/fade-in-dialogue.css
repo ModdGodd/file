@@ -1,0 +1,18 @@
+/* now your dialogue can fade in! Also nice you made it here try to make out what all this does: */
+div#modd-dialogue-modal>div {
+	opacity: 1 !important;
+	animation-name: fadeInOpacity !important;
+	animation-iteration-count: 1 !important;
+	animation-timing-function: ease-out !important;
+	animation-duration: 0.4s !important;
+}
+
+@keyframes fadeInOpacity {
+	0% {
+		opacity: 0;
+	}
+
+	100% {
+		opacity: 1;
+	}
+}
